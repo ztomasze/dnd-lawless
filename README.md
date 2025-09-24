@@ -1,6 +1,6 @@
 # Lawless
 
-Notes for a D&D campaign. This is a fanstasy western set in Columbia (World Anew).
+Published notes for fantasy western D&D campaign set in Columbia (World Anew).
 
 See <https://ztomasze.github.io/dnd-lawless/> for the published version.
 
