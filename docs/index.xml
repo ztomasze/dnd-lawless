@@ -6,17 +6,65 @@
       <description>Last 10 notes on Lawless</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/Fey/</link>
+    <guid>https://quartz.jzhao.xyz/Fey/</guid>
+    <description>Information about the structure of fey society. This is primarily based in the Feywild, but some of it has spilled into the Material Plane.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
     <title>Geography</title>
     <link>https://quartz.jzhao.xyz/Geography/Geography</link>
     <guid>https://quartz.jzhao.xyz/Geography/Geography</guid>
     <description>Real World 1848 is the year by which the current continental US’s borders were established.</description>
-    <pubDate>Wed, 24 Sep 2025 20:12:32 GMT</pubDate>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Elemental Planes</title>
+    <link>https://quartz.jzhao.xyz/Planes/Elemental-Planes</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Elemental-Planes</guid>
+    <description>The elemental planes of Air, Earth, Fire, and Water are the source of substance and raw magic.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Ethereal</title>
+    <link>https://quartz.jzhao.xyz/Planes/Ethereal</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Ethereal</guid>
+    <description>As per 5e’s Border Ethereal, this coterminous plane is just slightly out of phase with the Material Plane.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Feywild</title>
+    <link>https://quartz.jzhao.xyz/Planes/Feywild</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Feywild</guid>
+    <description>The Feywild (also called Faerie) is a vibrant verdant plane with vaguely positive-energy alignment.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Gloaming</title>
+    <link>https://quartz.jzhao.xyz/Planes/Gloaming</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Gloaming</guid>
+    <description>The Gloaming is formed where the Feywild and Shadowfell meet, similar to a para-elemental plane.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Material Plane</title>
+    <link>https://quartz.jzhao.xyz/Planes/Material-Plane</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Material-Plane</guid>
+    <description>The plane that contains Columbia and human affairs. Also called the Mortal Realm, especially by the fey.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Shadowfell</title>
+    <link>https://quartz.jzhao.xyz/Planes/Shadowfell</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Shadowfell</guid>
+    <description>The Shadowfell is a cold dark plane with a vaguely negative-energy alignment. The Shadowfell is a dark reflection of the Material Plane.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
+  </item><item>
+    <title>Spirit Realm</title>
+    <link>https://quartz.jzhao.xyz/Planes/Spirit-Realm</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Spirit-Realm</guid>
+    <description>The Spirit Realm goes by many names: The Dreaming, the Astral, the Deep Ethereal.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Published notes for fantasy western D&amp;D campaign set in Columbia (World Anew). This content is a subset of the DM’s full Obsidian vault.</description>
-    <pubDate>Wed, 24 Sep 2025 20:12:32 GMT</pubDate>
+    <link>https://quartz.jzhao.xyz/Planes/</link>
+    <guid>https://quartz.jzhao.xyz/Planes/</guid>
+    <description>The planes of existence that exist in the World Anew setting.</description>
+    <pubDate>Sat, 27 Sep 2025 04:00:32 GMT</pubDate>
   </item>
     </channel>
   </rss>
