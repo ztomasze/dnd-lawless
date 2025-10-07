@@ -6,65 +6,65 @@
       <description>Last 10 notes on Lawless</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Ethereal</title>
-    <link>https://quartz.jzhao.xyz/Planes/Ethereal</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Ethereal</guid>
-    <description>As per 5e’s Border Ethereal, this coterminous plane is just slightly out of phase with the Material Plane.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Arlo</title>
+    <link>https://quartz.jzhao.xyz/Characters/Arlo</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Arlo</guid>
+    <description> PropertyValuePlayerTobinNameArlo “Armadillo” JonesRaceHumanClassRanger (Beast Master).</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>Feywild</title>
-    <link>https://quartz.jzhao.xyz/Planes/Feywild</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Feywild</guid>
-    <description>The Feywild (also sometimes called Faerie) is a vibrant verdant plane with vaguely positive-energy alignment.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Molly</title>
+    <link>https://quartz.jzhao.xyz/Characters/Molly</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Molly</guid>
+    <description> PropertyValuePlayerStacyNameMary Elizabeth “Molly” GabrielRaceHalf-elfClassFighter (Green Knight).</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>Gloaming</title>
-    <link>https://quartz.jzhao.xyz/Planes/Gloaming</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Gloaming</guid>
-    <description>The Gloaming is formed where the Feywild and Shadowfell meet, similar to a para-elemental plane.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Numyr</title>
+    <link>https://quartz.jzhao.xyz/Characters/Numyr</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Numyr</guid>
+    <description> PropertyValuePlayerBillNameNumyrn JonesRaceHalf-elfClassCleric (War) / Warlock (Archfey).</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>Material Plane</title>
-    <link>https://quartz.jzhao.xyz/Planes/Material-Plane</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Material-Plane</guid>
-    <description>The plane that contains Columbia and human affairs. Also called the Mortal Realm, especially by the fey.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Wayne</title>
+    <link>https://quartz.jzhao.xyz/Characters/Wayne</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Wayne</guid>
+    <description> PropertyValuePlayerZboNameWayne Dubeau JrRaceHumanClassRogue (Thief).</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>Shadowfell</title>
-    <link>https://quartz.jzhao.xyz/Planes/Shadowfell</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Shadowfell</guid>
-    <description>The Shadowfell is a cold dark plane with a vaguely negative-energy alignment. The Shadowfell is a dark reflection of the Material Plane.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Faerie</title>
+    <link>https://quartz.jzhao.xyz/Fey/Faerie</link>
+    <guid>https://quartz.jzhao.xyz/Fey/Faerie</guid>
+    <description>While the term can also refer to the Feywild itself, Faerie more specifically refers to the full tapestry of society in the Feywild.</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>Spirit Realm</title>
-    <link>https://quartz.jzhao.xyz/Planes/Spirit-Realm</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Spirit-Realm</guid>
-    <description>The Spirit Realm goes by many names: The Dreaming, the Astral, the Deep Ethereal.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>King Auberon</title>
+    <link>https://quartz.jzhao.xyz/Fey/King-Auberon</link>
+    <guid>https://quartz.jzhao.xyz/Fey/King-Auberon</guid>
+    <description>Once ruler of Faerie and the Feywild with his wife, Queen Ceres.</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/Planes/</link>
-    <guid>https://quartz.jzhao.xyz/Planes/</guid>
-    <description>The planes of existence that exist in the World Anew setting. If your character would know this content if they have proficiency in Arcana.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Queen Ceres</title>
+    <link>https://quartz.jzhao.xyz/Fey/Queen-Ceres</link>
+    <guid>https://quartz.jzhao.xyz/Fey/Queen-Ceres</guid>
+    <description>Mother of Queen Titania and the Queen of Air and Darkness and once the ruler of Faerie with her husband, King Auberon.</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/Rules/</link>
-    <guid>https://quartz.jzhao.xyz/Rules/</guid>
-    <description>See the Google Docs: World Anew - Lawless player’s guide.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Queen Titania</title>
+    <link>https://quartz.jzhao.xyz/Fey/Queen-Titania</link>
+    <guid>https://quartz.jzhao.xyz/Fey/Queen-Titania</guid>
+    <description>Queen of the Summer Court of the Seelie Court. Daughter of Queen Ceres and King Auberon and younger sister to the Queen of Air and Darkness.</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>2025-09-23 - Session 0</title>
-    <link>https://quartz.jzhao.xyz/Sessions/2025-09-23---Session-0</link>
-    <guid>https://quartz.jzhao.xyz/Sessions/2025-09-23---Session-0</guid>
-    <description>Wrapped up Dargrim (Interlude I - Finnan’s Windsong).</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Queen of Air and Darkness</title>
+    <link>https://quartz.jzhao.xyz/Fey/Queen-of-Air-and-Darkness</link>
+    <guid>https://quartz.jzhao.xyz/Fey/Queen-of-Air-and-Darkness</guid>
+    <description>The Queen of Air and Darkness is an enigmatic and distant character who is important to the current structure of the Seelie Court.</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Published notes for fantasy western D&amp;D campaign set in World Anew (Columbia). This content is a subset of the DM’s full Obsidian vault.</description>
-    <pubDate>Thu, 02 Oct 2025 07:26:34 GMT</pubDate>
+    <title>Seelie Court</title>
+    <link>https://quartz.jzhao.xyz/Fey/Seelie-Court</link>
+    <guid>https://quartz.jzhao.xyz/Fey/Seelie-Court</guid>
+    <description>Part of Faerie (particularly the Fair Folk) is ruled by the Seelie Court. The Court is made of many titled fey, collectively called the Courtly Ones.</description>
+    <pubDate>Tue, 07 Oct 2025 20:25:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
