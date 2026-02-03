@@ -6,65 +6,65 @@
       <description>Last 10 notes on Lawless</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Seelie Court</title>
-    <link>https://quartz.jzhao.xyz/Fey/Seelie-Court</link>
-    <guid>https://quartz.jzhao.xyz/Fey/Seelie-Court</guid>
-    <description>Part of Faerie (particularly the Fair Folk) is ruled by the Seelie Court. The Court is made of many titled fey, collectively called the Courtly Ones.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/Fey/</link>
-    <guid>https://quartz.jzhao.xyz/Fey/</guid>
-    <description>Fey society, or Faerie, is primarily based in the Feywild, but some of it has spilled into the Material Plane.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>Chugwater</title>
-    <link>https://quartz.jzhao.xyz/Geography/Chugwater</link>
-    <guid>https://quartz.jzhao.xyz/Geography/Chugwater</guid>
-    <description>Was originally planned to be a railroad depot, but it is not much more than a roadhouse today. Site includes: Chugwater Roadhouse.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>Machine</title>
-    <link>https://quartz.jzhao.xyz/Geography/Machine</link>
-    <guid>https://quartz.jzhao.xyz/Geography/Machine</guid>
-    <description>A depot and road house not far from the end of the existing rail bed from Ogallah.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>Ogallah</title>
-    <link>https://quartz.jzhao.xyz/Geography/Ogallah</link>
-    <guid>https://quartz.jzhao.xyz/Geography/Ogallah</guid>
-    <description>A rowdy cattle down between Oma and Deadbridge on the railroad. Where the North Platt and South Platt meet. Last main stop of the current rail line.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>Apothecandy</title>
-    <link>https://quartz.jzhao.xyz/Items/Apothecandy</link>
-    <guid>https://quartz.jzhao.xyz/Items/Apothecandy</guid>
-    <description>$1 samples available. One sample per party, must be consumed on premises.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>Boyd&#039;s Razor</title>
-    <link>https://quartz.jzhao.xyz/Items/Boyd's-Razor</link>
-    <guid>https://quartz.jzhao.xyz/Items/Boyd's-Razor</guid>
-    <description>Boyd Sugg’s pearl-handled razor blade. +1 dagger, but can’t be thrown If it hasn’t drawn blood in the past 24 hours, it grows frosty cold.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
-    <title>Elemental Planes</title>
-    <link>https://quartz.jzhao.xyz/Planes/Elemental-Planes</link>
-    <guid>https://quartz.jzhao.xyz/Planes/Elemental-Planes</guid>
-    <description>The elemental planes of Air, Earth, Fire, and Water are the source of substance and raw magic.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
-  </item><item>
     <title>Ethereal</title>
     <link>https://quartz.jzhao.xyz/Planes/Ethereal</link>
     <guid>https://quartz.jzhao.xyz/Planes/Ethereal</guid>
     <description>As per 5e’s Border Ethereal, this coterminous plane is just slightly out of phase with the Material Plane.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
   </item><item>
     <title>Feywild</title>
     <link>https://quartz.jzhao.xyz/Planes/Feywild</link>
     <guid>https://quartz.jzhao.xyz/Planes/Feywild</guid>
     <description>The Feywild (also sometimes called Faerie) is a vibrant verdant plane with vaguely positive-energy alignment.</description>
-    <pubDate>Wed, 28 Jan 2026 07:20:28 GMT</pubDate>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>Gloaming</title>
+    <link>https://quartz.jzhao.xyz/Planes/Gloaming</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Gloaming</guid>
+    <description>The Gloaming is formed where the Feywild and Shadowfell meet, similar to a para-elemental plane.</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>Material Plane</title>
+    <link>https://quartz.jzhao.xyz/Planes/Material-Plane</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Material-Plane</guid>
+    <description>The plane that contains Columbia and human affairs. Also called the Mortal Realm, especially by the fey.</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>Shadowfell</title>
+    <link>https://quartz.jzhao.xyz/Planes/Shadowfell</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Shadowfell</guid>
+    <description>The Shadowfell is a cold dark plane with a vaguely negative-energy alignment. The Shadowfell is a dark reflection of the Material Plane.</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>Spirit Realm</title>
+    <link>https://quartz.jzhao.xyz/Planes/Spirit-Realm</link>
+    <guid>https://quartz.jzhao.xyz/Planes/Spirit-Realm</guid>
+    <description>The Spirit Realm goes by many names: The Dreaming, the Astral, the Deep Ethereal.</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/Planes/</link>
+    <guid>https://quartz.jzhao.xyz/Planes/</guid>
+    <description>The planes of existence that exist in the World Anew setting. If your character would know this content if they have proficiency in Arcana.</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/Rules/</link>
+    <guid>https://quartz.jzhao.xyz/Rules/</guid>
+    <description>See: Google Docs: World Anew - Lawless - Player’s guide (which might eventually get migrated here) D&amp;D 5e doc - House rules .</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>2025-09-17 - Session -1</title>
+    <link>https://quartz.jzhao.xyz/Sessions/2025-09-17---Session--1</link>
+    <guid>https://quartz.jzhao.xyz/Sessions/2025-09-17---Session--1</guid>
+    <description>Zach, Bill, &amp; Zbo got together to chat about rules while Tobin and Stacy where out.</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
+  </item><item>
+    <title>2025-09-23 - Session 0</title>
+    <link>https://quartz.jzhao.xyz/Sessions/2025-09-23---Session-0</link>
+    <guid>https://quartz.jzhao.xyz/Sessions/2025-09-23---Session-0</guid>
+    <description>Wrapped up Dargrim (Interlude I - Finnan’s Windsong).</description>
+    <pubDate>Tue, 03 Feb 2026 23:38:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
